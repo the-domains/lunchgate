@@ -1,0 +1,28 @@
+name: lunchgate
+favicon: null
+layout_spectrum: 0.10683390242047608
+typography_spectrum: 0.09805144346319139
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6494771970901638
+  lightness: 0.06297327647916973
+  saturation: 0.5822832197882235
+  rhythmicContrast: 0.44261946179904044
+purpose: []
