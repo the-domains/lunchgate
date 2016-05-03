@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[lunchgate]]></title>
         <description><![CDATA[lunchgate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lunchgate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 21:43:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 07:40:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lunchgate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Dienstag, ja, heute ist Dienstag. Der Tag nach Montag.</p>]]></description>
+            <link>https://thegrid.ai/lunchgate/dienstag-ja-heute-ist-dienstag-der-tag-nach-montag/index.html</link>
+            <guid isPermaLink="false">f7664c96-802f-4b5a-8464-57ff1085b15a</guid>
+            <pubDate>Tue, 03 May 2016 07:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lunchgate</p>]]></description>
-            <link>undefinedlunchgate/index.html</link>
+            <link>https://thegrid.ai/lunchgate/lunchgate/index.html</link>
             <guid isPermaLink="false">9f115f62-ebff-4106-98f7-06ed9b02e2e6</guid>
             <pubDate>Mon, 02 May 2016 21:43:19 GMT</pubDate>
         </item>
